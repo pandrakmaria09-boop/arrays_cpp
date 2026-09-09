@@ -207,6 +207,8 @@ int main()
 	{
 		cout << "enter firstly months:  " << endl;
 		cout << "enter last months:  " << endl;
+		cout << "enter last months:  " << endl;
+		cout << "enter last months:  " << endl;
 		cin >> arr1[i];
 	}
 	//незавершено
